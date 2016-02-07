@@ -2,9 +2,11 @@
 /var/*
 /pub/media/catalog/*
 /pub/media/wysiwyg/*
+/pub/media/theme/*
 /pub/static/*
 !/composer.json
 !/composer.lock
 !/README.md
 /app/etc/env.php
+/app/etc/config.php
 cls
