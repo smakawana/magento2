@@ -1,0 +1,10 @@
+/node_modules/* 
+/var/*
+/pub/media/catalog/*
+/pub/media/wysiwyg/*
+/pub/static/*
+!/composer.json
+!/composer.lock
+!/README.md
+/app/etc/env.php
+cls
